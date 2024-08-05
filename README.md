@@ -17,6 +17,9 @@ Welcome to your comprehensive guide to SQL and PostgreSQL! This repository is de
 - [Database Administration](./database-administration.md)
 - [Advanced PostgreSQL Features](./advanced-postgresql-features.md)
 
+  ### Cheat Sheet
+  - [MySQL and MySQL Workbench Cheat Sheet](./MySQLandMySQLwbcs.md)
+
 ## 🚀 Getting Started
 
 To begin your journey into the world of SQL and PostgreSQL, start with our [Introduction to SQL](./introduction-to-sql.md) guide. This will give you a solid foundation in SQL basics before diving into PostgreSQL-specific topics.
