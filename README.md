@@ -46,9 +46,6 @@ This guide is perfect for:
 
 We welcome contributions! If you have suggestions for improvements or new topics to cover, please open an issue or submit a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🙏 Acknowledgments
 
