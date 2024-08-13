@@ -41,6 +41,8 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 - `INTERSECT` (MySQL 8.0.31+)
 - `EXCEPT` (MySQL 8.0.31+)
 
+Deep Dive: [Data Manipulation Language](CheatSheetsDeepDive/DataManipulationLanguage.md)
+
 ## 🏗 Data Definition Language (DDL)
 
 ### Statements
@@ -62,10 +64,14 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 - `TRIGGER`
 - `EVENT`
 
+Deep Dive: [Data Definition Language](CheatSheetsDeepDive/DataDefinitionLanguage.md)
+
 ## 🔐 Data Control Language (DCL)
 
 - `GRANT`
 - `REVOKE`
+
+Deep Dive: [Data Control Language](CheatSheetsDeepDive/DataControlanguage.md)
 
 ## 💼 Transaction Control
 
@@ -73,6 +79,8 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 - `COMMIT`
 - `ROLLBACK`
 - `SAVEPOINT`
+
+Deep Dive: [Transaction Control](CheatSheetsDeepDive/TransactionControl.md)
 
 ## 🧮 Operators
 
@@ -97,6 +105,8 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 - `+`, `-`, `*`, `/`, `%`
 - `DIV` (integer division)
 
+Deep Dive: [Operators](CheatSheetsDeepDive/Operators.md)
+
 ## 🛠 Functions
 
 ### String Functions
@@ -119,6 +129,7 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 
 - `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`
 
+Deep Dive: [Functions](CheatSheetsDeepDive/Functions.md)
 ## 🔑 Other Keywords
 
 - `DISTINCT`
@@ -157,6 +168,8 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 - `SET`
 - `JSON` (MySQL 5.7.8+)
 
+Deep Dive: [Data Types](CheatSheetsDeepDive/DataTypes.md)
+
 ## 🔒 Constraints
 
 - `PRIMARY KEY`
@@ -172,6 +185,8 @@ A comprehensive guide to MySQL's key components, including statements, clauses, 
 - `HASH`
 - `FULLTEXT`
 - `SPATIAL`
+
+Deep Dive: [Constraints](CheatSheetsDeepDive/Constraints.md)
 
 ## 📝 Note
 
