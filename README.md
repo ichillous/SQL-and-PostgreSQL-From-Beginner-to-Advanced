@@ -2,7 +2,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Welcome to your comprehensive guide to SQL and PostgreSQL! This repository is designed to take you from a beginner to an advanced level in SQL, with a focus on PostgreSQL. Whether you're just starting out or looking to deepen your database skills, you'll find valuable resources and examples here.
+Welcome to your comprehensive guide to SQL and PostgreSQL! This repository is designed to take you from a beginner to an advanced level in SQL, with a focus on PostgreSQL. Whether you're just starting out or looking to deepen your database skills, you'll find valuable resources and examples here. For more examples view the Cheat sheets.
 
 <details>
     <summary> 👾 Cheat Sheet 👾 </summary>
