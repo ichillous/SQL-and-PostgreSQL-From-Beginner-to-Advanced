@@ -4,6 +4,12 @@
 
 Welcome to your comprehensive guide to SQL and PostgreSQL! This repository is designed to take you from a beginner to an advanced level in SQL, with a focus on PostgreSQL. Whether you're just starting out or looking to deepen your database skills, you'll find valuable resources and examples here.
 
+<section>
+    ### Cheat Sheet
+  - [MySQL and MySQL Workbench Cheat Sheet](./MySQLandMySQLwbcs.md)
+  - [MySQL's key components](./key-components.md)
+</section>
+
 ## 📚 Table of Contents
 
 - [Introduction to SQL](./introduction-to-sql.md)
@@ -16,9 +22,6 @@ Welcome to your comprehensive guide to SQL and PostgreSQL! This repository is de
 - [PL/pgSQL: PostgreSQL's Procedural Language](./plpgsql.md)
 - [Database Administration](./database-administration.md)
 - [Advanced PostgreSQL Features](./advanced-postgresql-features.md)
-
-  ### Cheat Sheet
-  - [MySQL and MySQL Workbench Cheat Sheet](./MySQLandMySQLwbcs.md)
 
 ## 🚀 Getting Started
 
